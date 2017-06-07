@@ -1,7 +1,7 @@
 # Workshop
 Slides and more for the workshop: build, tinker, code, inspire
 
-Day 1	Topic	Content	Links
+Day 1	Topic	Content	Links<strong><
      Morning 1 (9 am)	Introductions
 			Make a computer from a Raspberry Pi. 
 			The internet is about wires and circuits. Computer core. Raspberry Pi foundation. Front end/Back End; 					client/server; 	
@@ -24,7 +24,7 @@ Day 1	Topic	Content	Links
 
 
 
-<strong>Day 2 <stro
+<strong>Day 2 </strong>
 Morning 1	Intro to Python	Python is a back-end language that powers 1/3 of the internet. We’ll learn some basic programs, using trinket.io
 
 
