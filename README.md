@@ -8,19 +8,19 @@ Make a computer from a Raspberry Pi.
 	The internet is about wires and circuits. Computer core. Raspberry Pi foundation. Front end/Back End; client/server; 	
   
 Morning 2
-(10.30 am)	Arduino microcontroller, and electronics	Downloading the Arduino IDE; about IDE’s (coding environments).; microprocessors, and their use in collecting data; Harlem Heat Project; monitoring air quality	http://www.arduino.org/ https://processing.org/
+(10.30 am)	Arduino microcontroller, and electronics	Downloading the Arduino IDE; about IDE’s (coding environments).; microprocessors, and their use in collecting data; Harlem Heat Project; monitoring air quality	
 
 Lunch 
 (12-1) 	Tech videos 
 		
 Afternoon 1
 1 pm	Terminal;
-Automation/applets/twitter bots;
+Automation/applets/twitter bots;https://ifttt.com/discover
 APIs and Blockchain;
 getting data; 
 Processing.org; 
 Plus more on Raspberry Pi and Arduino
-(and, What is Scratch?) 	Controlling a computer through Terminal (with some exercises). Using IFTTT.com to show automation, and uses in classroom; Data, control, finding it and using API’s (Application program interface) to get it. 	https://ifttt.com/discover 
+(and, What is Scratch?
  
 
 Afternoon 2
