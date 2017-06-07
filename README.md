@@ -24,22 +24,19 @@ Day 1	Topic	Content	Links<strong><
 
 
 
-<strong>Day 2 </strong>
-Morning 1	Intro to Python	Python is a back-end language that powers 1/3 of the internet. We’ll learn some basic programs, using trinket.io
+Day 2
+     Morning 1 (9 am)  Intro to Python	Python is a back-end language that powers 1/3 of the internet. We’ll learn some basic programs, 		       using trinket.io
 
 
-Morning 2	Python, continued		
+     Morning 2 (10.30) Python, continued		
+
+     Lunch	(12-1)  Tech videos		
+
+     Afternoon 1	Q and A/Conversation. Individual projects/work on Python code or website code (HTML/CSS/JavaScript) 
+			These can be particular to your teaching, or can be more general learning to code/build. Suggestions offered. 	
 
 
-Lunch	Tech videos		
-
-Afternoon 1	Q and A
-
-Individual projects/work on Python code or website code (HTML/CSS/JavaScript) 	These can be particular to your teaching, or can be more general learning to code/build. Suggestions offered. 	
-
-
-Afternoon 2
-(2 pm) 	Project Demo/Discussion on classroom integration 
+     Afternoon 2 (2 pm) Project Demo/Discussion on classroom integration 
 		
 
 
