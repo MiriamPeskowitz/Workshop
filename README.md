@@ -1,7 +1,7 @@
 # Workshop
 Slides and more for the workshop: build, tinker, code, inspire
 
-Day 1	Topic	Content	Links<strong><
+Day 1	
      Morning 1 (9 am)	Introductions
 			Make a computer from a Raspberry Pi. 
 			The internet is about wires and circuits. Computer core. Raspberry Pi foundation. Front end/Back End; 					client/server	
